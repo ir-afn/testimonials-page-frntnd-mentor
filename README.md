@@ -1,4 +1,4 @@
-# Testimonials Page
+# testimonials page
 
 tried my hand at adaptive layout with CSS grid — feels like magic.
 
